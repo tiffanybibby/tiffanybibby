@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋🏾, I'm Tiffany!</h1>
-<h3 align="center">A software engineer, health administrator, and cosmetologist</h3>
+<h3 align="center">Software engineer, Health administrator, and Cosmetologist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tiffanybibby&label=Profile%20views&color=blueviolet&style=flat&label=Profile+Views" alt="tiffany-bibby" /> </p>
 
