@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **my portfolio site**
 
-- 🌱 I’m currently learning **SASS + MaterialUI + Tailwind**
+- 🌱 I’m currently learning **Typescript + Selenium**
 
 <!-- - 🤝 I’m looking for help with **interview coding challenge prep**
  -->
