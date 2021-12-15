@@ -28,7 +28,7 @@ Here are some ideas to get you started:
  -->
 - 👩🏾‍💻 All of my projects are available at [www.tiffanybibby.com](www.tiffanybibby.com)
 
-- 💬 Ask me about **CSS + REACT**
+- 💬 Ask me about **JavaScript + CSS + REACT**
 
 - 📫 How to reach me **tiffany.bibby@gmail.com**
 
