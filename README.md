@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 😄 Pronouns: **She/Her**
 
-- 🔭 I’m currently working on **my portfolio site**
+- 🔭 I’m currently working on **algorithms**
 
 - 🌱 I’m currently learning **Typescript + Selenium**
 
