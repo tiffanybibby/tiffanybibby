@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **algorithms**
 
-- 🌱 I’m currently learning **Typescript + Selenium**
+- 🌱 I’m currently learning **Java + Springboot**
 
 <!-- - 🤝 I’m looking for help with **interview coding challenge prep**
  -->
