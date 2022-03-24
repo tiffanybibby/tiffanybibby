@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <!-- - 🤝 I’m looking for help with **interview coding challenge prep**
  -->
-- 👩🏾‍💻 All of my projects are available at [www.tiffanybibby.com](www.tiffanybibby.com)
+- 👩🏾‍💻 All of my projects are available at [https://tiffanybibby.com](https://tiffanybibby.com/)
 
 - 💬 Ask me about **JavaScript + CSS + REACT**
 
