@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **JavaScript + CSS + REACT**
 
-- 📫 How to reach me **tiffany.bibby@gmail.com**
+<!-- - 📫 How to reach me **tiffany.bibby@gmail.com** -->
 
 <!-- - 📄 Know about my experiences [https://pdfhost.io/v/y9BkHBytn_TiffanyBibby](https://pdfhost.io/v/y9BkHBytn_TiffanyBibby) -->
 
