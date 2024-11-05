@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋🏾, I'm Tiffany!</h1>
-<!-- <h3 align="center">Software Engineer, Health Administrator, and Cosmetologist</h3> -->
+<h3 align="center">Software Engineer @ JPMChase </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tiffanybibby&label=Profile%20views&color=blueviolet&style=flat&label=Profile+Views" alt="tiffany-bibby" /> </p>
 
@@ -22,13 +22,13 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **algorithms**
 
-- 🌱 I’m currently learning **Java + Springboot**
+- 🌱 I’m currently learning **Cloud Computing**
 
 <!-- - 🤝 I’m looking for help with **interview coding challenge prep**
  -->
 - 👩🏾‍💻 All of my projects are available at [https://tiffanybibby.com](https://tiffanybibby.com/)
 
-- 💬 Ask me about **JavaScript + CSS + REACT**
+<!-- - 💬 Ask me about **JavaScript + CSS + REACT**  -->
 
 <!-- - 📫 How to reach me **tiffany.bibby@gmail.com** -->
 
